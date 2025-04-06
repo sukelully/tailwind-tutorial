@@ -1,3 +1,3 @@
 # Tailwind CSS tutorial
 
-[Video course by Dave Gray](https://youtu.be/lCxcTsOHrjo?si=EyJI2rfD2-VB6m6z&t=3457)
+[Video course by Dave Gray](https://youtu.be/lCxcTsOHrjo?si=FSCFhR5dXET0aBha)
